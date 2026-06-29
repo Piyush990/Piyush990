@@ -148,8 +148,8 @@ I enjoy solving complex infrastructure challenges by building scalable, reliable
 </p>
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *(Add your LinkedIn URL)*
-- 📧 Email: *(Add your Email)*
+- 💼 LinkedIn: *(https://www.linkedin.com/in/piyush-thakur-485309202/)*
+- 📧 Email: *(piyushcu990@gmail.com)*
 
 ---
 
