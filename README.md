@@ -4,6 +4,7 @@
 
 <br>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&height=70&lines=Cloud+%26+DevOps+Engineer;OpenStack+Specialist;Kubernetes+Administrator;AWS+Cloud+Engineer;Linux+System+Administrator;Infrastructure+Automation;Observability+%26+Monitoring;Building+Reliable+Infrastructure" alt="Typing SVG" /></a>
 <div align="center">
 
 # 👋 Hi, I'm Piyush Thakur
