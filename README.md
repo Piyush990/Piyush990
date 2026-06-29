@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/Git_Image_piyush.png" alt="Piyush Thakur Banner" width="100%">
+</p>
+
+<br>
+
 <div align="center">
 
 # 👋 Hi, I'm Piyush Thakur
